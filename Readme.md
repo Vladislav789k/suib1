@@ -1,5 +1,7 @@
 # Этапы работы
 1. Создал репозиторий на GitHub
+![image](https://github.com/Vladislav789k/suib1/assets/71137501/a2e1f84b-bcba-4ae9-919a-99b5b149aa17)
+
 
 2. Создал репозиторий на локальном Git
 
