@@ -57,3 +57,4 @@ n = 3
 result = power(a, n)
 print(f"{a} в степени {n} равно {result}")
 ```
+![image](https://github.com/Vladislav789k/suib1/assets/71137501/5e9b2f16-be9e-427b-a273-489ed2ec63eb)
